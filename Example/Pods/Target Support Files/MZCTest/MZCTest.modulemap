@@ -1,0 +1,6 @@
+framework module MZCTest {
+  umbrella header "MZCTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
